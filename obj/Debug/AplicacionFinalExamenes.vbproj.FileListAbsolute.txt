@@ -1,0 +1,13 @@
+C:\Users\alumnado\OneDrive\Escritorio\Gorka E\AplicacionFinalExamenes\bin\Debug\AplicacionFinalExamenes.exe.config
+C:\Users\alumnado\OneDrive\Escritorio\Gorka E\AplicacionFinalExamenes\bin\Debug\AplicacionFinalExamenes.exe
+C:\Users\alumnado\OneDrive\Escritorio\Gorka E\AplicacionFinalExamenes\bin\Debug\AplicacionFinalExamenes.pdb
+C:\Users\alumnado\OneDrive\Escritorio\Gorka E\AplicacionFinalExamenes\bin\Debug\AplicacionFinalExamenes.xml
+C:\Users\alumnado\OneDrive\Escritorio\Gorka E\AplicacionFinalExamenes\obj\Debug\AplicacionFinalExamenes.vbprojAssemblyReference.cache
+C:\Users\alumnado\OneDrive\Escritorio\Gorka E\AplicacionFinalExamenes\obj\Debug\AplicacionFinalExamenes.FormularioExamenes.resources
+C:\Users\alumnado\OneDrive\Escritorio\Gorka E\AplicacionFinalExamenes\obj\Debug\AplicacionFinalExamenes.Resources.resources
+C:\Users\alumnado\OneDrive\Escritorio\Gorka E\AplicacionFinalExamenes\obj\Debug\AplicacionFinalExamenes.vbproj.GenerateResource.cache
+C:\Users\alumnado\OneDrive\Escritorio\Gorka E\AplicacionFinalExamenes\obj\Debug\AplicacionFinalExamenes.vbproj.CoreCompileInputs.cache
+C:\Users\alumnado\OneDrive\Escritorio\Gorka E\AplicacionFinalExamenes\obj\Debug\AplicacionFinalExamenes.exe
+C:\Users\alumnado\OneDrive\Escritorio\Gorka E\AplicacionFinalExamenes\obj\Debug\AplicacionFinalExamenes.xml
+C:\Users\alumnado\OneDrive\Escritorio\Gorka E\AplicacionFinalExamenes\obj\Debug\AplicacionFinalExamenes.pdb
+C:\Users\alumnado\OneDrive\Escritorio\Gorka E\AplicacionFinalExamenes\obj\Debug\AplicacionFinalExamenes.FormularioPresentacion.resources
